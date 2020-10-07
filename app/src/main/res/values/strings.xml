@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">PANCILLUMINATION</string>
+    <string name="lorem">a i u e o</string>
+
+    <string-array name="data_name">
+        <item>UmKetua</item>
+        <item>Bagassur</item>
+        <item>Lhaa.</item>
+        <item>Endra</item>
+        <item>mr.BrightFN</item>
+        <item>CHEY-Tac</item>
+        <item>UmPiyo</item>
+        <item>FLAMZEZOMBIE</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Just Call Me OM.</item>
+        <item>Bagassur.</item>
+        <item>Lane Bot/ Mid/ Top/ Support/ Jungler.</item>
+        <item>Sibuk.</item>
+        <item>Madangi Sing Turu LAMPU.</item>
+        <item>Shinigami Corp.</item>
+        <item>Life behind viewfinder.</item>
+        <item>Tidak dapat bicara, WA sadja.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/azkadf</item>
+        <item>@drawable/bagassur</item>
+        <item>@drawable/faizam</item>
+        <item>@drawable/faizer</item>
+        <item>@drawable/faiznr</item>
+        <item>@drawable/marufs</item>
+        <item>@drawable/priyoa</item>
+        <item>@drawable/valentinoaup</item>
+    </array>
+</resources>
